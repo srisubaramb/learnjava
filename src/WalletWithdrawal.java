@@ -13,5 +13,5 @@ public class WalletWithdrawal {
         }
     }
 }
-//this program cover variable , data type , class , main method signature,
+//this program cover variable , data types , class , main method signature,
 // decision / condition logic (if , else if , else) , printing statements , formats in printing
