@@ -35,6 +35,6 @@ public class Main {
         new RightTriangle().drawRightTriangle(element ,rows , cols);
 
         //Pyramid
-        new Pyramid().drawPyramid(element ,rows, cols);
+        new Pyramid().drawPyramid(element ,rows, 7);
     }
 }

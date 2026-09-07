@@ -1,0 +1,16 @@
+Employee Task Management System
+Use case : 
+	This is a piece of software used by peoples like manager to create and assign task to existed employees or by creating new employees
+Features : 
+	* Can Create the task and employees. 
+	* But the whole software will revole around managing the task creating task , 
+	* Assigning task to a employee, changing the status of the task , 
+	* Searching the task by it's title, filtering the task by status/priority
+Task: 
+	* The task is the basic unit of the app . 
+	* It can have the informations like UID(unique ID to indentify the task) , 
+	* task's title, task's description, 
+	* task's status(this can be constants like PENDING, COMPLETED), 
+	* task's Priority (URGENT, MEDIUM,NORMAL),
+	* created at (the date of the task created at) ,
+	* employee details(may be like their name , id)
