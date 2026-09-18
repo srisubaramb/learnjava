@@ -4,9 +4,15 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-          String s = "\"0P\"";
-          ValidPalindrome obj = new ValidPalindrome();
-          System.out.println(obj.isAPalindrome(s));
+          String s1 = "aacc";
+          String s2 = "caaa";
+          Anagram2 obj = new Anagram2();
+          System.out.println(obj.isAnagram(s1,s2));
+//        Anagram obj = new Anagram();
+//        System.out.println(obj.isAnagram1(s1, s2));
+//        String s = "\"0P\"";
+//        ValidPalindrome obj = new ValidPalindrome();
+//        System.out.println(obj.isAPalindrome(s));
 //        int[] prices = {7,6,2,1};
 //        MaxProfit2 obj = new MaxProfit2();
 //        System.out.println(obj.calculateMaxProfit(prices));
